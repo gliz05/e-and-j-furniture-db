@@ -1,0 +1,14 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Local database exports and credentials
+*.dump
+*.sql.gz
+.env
+.env.*
+!.env.example
